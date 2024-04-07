@@ -2,7 +2,7 @@
 
 This project serves as a walkthrough for building a fully functional TypeScript application, aimed at understanding TypeScript's fundamentals through a practical project.
 
-<video src="./src/assets/demo.mp4" controls></video>
+https://github.com/nafisk/typescript-todolist/assets/49691160/af4cc57c-24e8-4632-a968-0cf7f58eb538
 
 ## Setup
 
