@@ -2,7 +2,7 @@
 
 This project serves as a walkthrough for building a fully functional TypeScript application, aimed at understanding TypeScript's fundamentals through a practical project.
 
-<img src='./src/assets/demo.mp4'>
+<video src="./src/assets/demo.mp4" controls></video>
 
 ## Setup
 
