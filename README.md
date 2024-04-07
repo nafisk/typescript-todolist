@@ -1,4 +1,4 @@
-# [Learning Journey: Complete TypeScript Project](https://youtu.be/61v23Ce5SXA?si=7FSQvv2NrBAnK333)
+# <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png' width='5%'> [Learning Journey: Complete TypeScript Project](https://youtu.be/61v23Ce5SXA?si=7FSQvv2NrBAnK333)
 
 This tutorial serves as a walkthrough for building a fully functional TypeScript application, aimed at understanding TypeScript's fundamentals through a practical project.
 
